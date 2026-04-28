@@ -12,4 +12,4 @@ quantidade_pessoas = int(input("Informe a quantidade de pessoas: "))
 
 print("=== Pressione Enter para Calcular ===")
 
-print(f"O valor será de: {dividir_conta(valor_total, quantidade_pessoas)}")
+print(f"O valor por pessoa será de: {dividir_conta(valor_total, quantidade_pessoas)}")
